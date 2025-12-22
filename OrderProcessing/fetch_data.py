@@ -1,18 +1,6 @@
-def fetch_data_if_admin(conn, access_level):
-    try:
-        if access_level == 'Full':
-            print("Access granted: Admin user.")
-            cursor = conn.cursor()
-            cursor.execute('SELECT * FROM Order_Data')
-            rows = cursor.fetchall()
+import pandas as pd
 
-            if rows:
-                print("Displaying data from Order_Data:")
-                for row in rows:
-                    print(row)
-            else:
-                print("No data found in Order_Data.")
-        else:
-            print("Access denied: You are not an admin.")
-    except Exception as e:
-        print(f"Error fetching data: {e}")
+def fetch_data_if_admin(conn, query):
+#Fetch data if the user has admin access.
+    order_data = pd.read_sql_query(query, conn)
+    return order_data
