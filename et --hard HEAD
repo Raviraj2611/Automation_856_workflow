@@ -1,0 +1,60 @@
+[33mcommit 6e3d54ededb72c2cf677def8902662baeb601a7c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mkaif[m[33m, [m[1;31morigin/kaif[m[33m)[m
+Author: MKA1204 <kaiftemp1204@gmail.com>
+Date:   Wed Dec 10 09:39:49 2025 +0000
+
+    Added Email Sending feature
+
+[33mcommit 64fc2f9efcdf1db0fc02614a2399c2421a597e9d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 98f81cd 41c0ca9
+Author: Lavanya0862 <lavanya.p8620@gmail.com>
+Date:   Tue Dec 9 12:12:45 2025 +0000
+
+    Merge pull request #4 from Lavanya0862/lavanya
+    
+    Lavanya
+
+[33mcommit 41c0ca9c6b1145d665ceb8da37c6ae2a37010b96[m[33m ([m[1;31morigin/lavanya[m[33m)[m
+Author: Lavanya0862 <lavanya.p8620@gmail.com>
+Date:   Tue Dec 9 12:06:32 2025 +0000
+
+    Updated error handler and order processing
+
+[33mcommit d8efa59fea7fdc464d3986caad70d908104dd111[m[33m ([m[1;31morigin/piyush[m[33m)[m
+Merge: ec66d84 98f81cd
+Author: Raviraj2611 <piyush.20630@knit.ac.in>
+Date:   Mon Dec 8 12:35:58 2025 +0000
+
+    Merge https://github.com/Raviraj2611/Automation_856_workflow into piyush
+
+[33mcommit ec66d84838083aabe04f3b8838ccd70c48ce36f2[m
+Author: Raviraj2611 <piyush.20630@knit.ac.in>
+Date:   Mon Dec 8 11:01:04 2025 +0000
+
+    error description changed
+
+[33mcommit 9b0fbc7d7e36c2f43667e7591ecdf0c21ef22991[m
+Author: Raviraj2611 <piyush.20630@knit.ac.in>
+Date:   Mon Dec 8 09:49:29 2025 +0000
+
+    Error handler and Order process
+
+[33mcommit 98f81cd6a0a49a0aca5815474d9c6de438d91d08[m
+Merge: 91f1a3d 423a501
+Author: Lavanya0862 <lavanya.p8620@gmail.com>
+Date:   Mon Dec 8 09:43:58 2025 +0000
+
+    Merge pull request #1 from Lavanya0862/lavanya
+    
+    db importing update
+
+[33mcommit 423a5019227459cf523fb04f7e57a48d56c6a91e[m
+Author: Lavanya0862 <lavanya.p8620@gmail.com>
+Date:   Mon Dec 8 09:41:46 2025 +0000
+
+    db importing update
+
+[33mcommit 91f1a3d4eefc37885dbc66583bda93e6975c379a[m
+Author: Lavanya0862 <lavanya.p8620@gmail.com>
+Date:   Fri Dec 5 11:30:55 2025 +0000
+
+    first commit
